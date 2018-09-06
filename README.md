@@ -1,2 +1,3 @@
 # Word-Search
-Word search game implementation using p5js
+A web application using p5js.
+Inspired by [lizhineng](https://github.com/lizhineng/word-search-game)
